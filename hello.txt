@@ -1,5 +1,5 @@
 hello git 你好 git
-11hello world！
+11hello world！ 这是加了hot-fix的版本
 
 22hello world！
     
