@@ -1,3 +1,4 @@
+
 hello git 你好 git
 11hello world！ 这是加了hot-fix的版本
 
@@ -14,3 +15,5 @@ hello git 你好 git
 77hello world！hot-fix test
 
 测试从github上远程拉取到本地库111
+
+这是测试另一个团队内协作者增添的信息222
