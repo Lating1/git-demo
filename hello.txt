@@ -12,3 +12,5 @@ hello git 你好 git
 66hello world！master test
 
 77hello world！hot-fix test
+
+测试从github上远程拉取到本地库111
